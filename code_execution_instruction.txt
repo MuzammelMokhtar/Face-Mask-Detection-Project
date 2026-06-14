@@ -1,0 +1,9 @@
+Execution Code Instruction
+
+1. The dataset can be found in the the 'dataset' folder.
+
+2. Run the 'train_mask_detector.py' program.(Adjust the directory based on your own folder that you stored the 'dataset' folder.
+
+3. Run the 'detect_mask_video.py' program. (Make sure the model and weight of the model are in the same directory
+
+ 
